@@ -1,2 +1,4 @@
-# python-journee 🚀
-Learn Python Basic to Advanced...
+# MY PYTHON JOURNEE 🚀
+
+## Day 1
+### 2025.08.24
