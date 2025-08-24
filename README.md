@@ -1,2 +1,2 @@
-# python-journee-
+# python-journee 🚀
 Learn Python Basic to Advanced...
